@@ -1,6 +1,6 @@
 ## Shopping-Cart
-
-<h1>Description<h1>
+https://jovinjp.github.io/Shopping-Cart/
+<h2>Description<h1>
 <p>This is exercise by MIT xPRO showing list of items on a shopping cart that the user(s) can add and/or remove on a cart before purchasing. Also, a way to restock back to original quantity on the instock</p>
 <h2>Outcome<h2>
 <p>To get started, please click the above link which will take you to the exercise for testing.</p>
